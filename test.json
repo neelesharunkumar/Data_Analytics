@@ -1,0 +1,27 @@
+{
+    "name": "Android TV App Config for Vaigai TV",
+    "live_data": [
+        {
+            "video_name": "Dan News Live",
+            "video_url": "http://askmedia.livebox.co.in/DanNewshls/3.m3u8"
+        },
+        {
+            "video_name": "Dan Tamil Oli Live",
+            "video_url": "http://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8"
+        }
+    ],
+    "other_data": [
+        {
+            "name": "news",
+            "url": "http://antv1.vaigaitv.com/vnews/and_news_source.json",
+            "rows": 10,
+            "columns": 10
+        },
+        {
+            "name": "programs",
+            "url": "http://antv1.vaigaitv.com/vnews/and_vid_source.json",
+            "rows": 10,
+            "columns": 10
+        }
+    ]
+}
