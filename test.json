@@ -3,7 +3,7 @@
     "live_data": [
         {
             "video_name": "Vaigai Live",
-            "video_url": "http://video.vaigaitv.com:1935/04/vaigaitv.m3u8"
+            "video_url": "http://video.vaigaitv.com:1935/04/vaigaitv/playlist.m3u8"
         },
         {
             "video_name": "Dan News Live",
