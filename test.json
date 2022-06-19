@@ -2,7 +2,7 @@
     "name": "Android TV App Config for Vaigai TV",
     "live_data": [
         {
-            "video_name": "Vaigai Live";
+            "video_name": "Vaigai Live",
             "video_url": "http://account9.livebox.co.in/vaigaitvhls/live.m3u8"
         },
         {
